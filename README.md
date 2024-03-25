@@ -20,14 +20,14 @@ Personal loans play a significant role in the banking sector, they serve as a su
 
   ## Project Directory Structure
 
-  MOGUL BANK/
-├── FILES/
-│   ├── bankmarketing.csv
-│   └── client.csv
-│   ├── ecconomics.csv
-│   ├── campaign.csv
-│   ├── project.pdf
-├── scripts/
+  - MOGUL BANK/
+- ├── FILES/
+- │   ├── bankmarketing.csv
+- │   └── client.csv
+- │   ├── ecconomics.csv
+- │   ├── campaign.csv
+- │   ├── project.pdf
+- ├── scripts/
 │   ├── Marketing.ipynb
 │   └── Bankdatabase.sql
 ├── INSIGHT/

@@ -30,3 +30,13 @@ Tailored strategies aimed at engaging high school graduates, individuals with pr
 
 ## Marital Status and Campaign Success:
 
+**Current Campaign:**
+Married clients account for the highest percentage of success, followed by singles and individuals who are divorced.
+
+**Previous Campaign:**
+Similar trend observed in the previous campaign, with Married clients leading in campaign success, followed by singles and divorcees.
+
+Tailored strategies aimed at engaging singles and divorcees can further enhance campaign effectiveness.
+
+
+

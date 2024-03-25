@@ -18,6 +18,26 @@ Personal loans play a significant role in the banking sector, they serve as a su
 
   ![ERD](https://github.com/Kejimi-data/MOGUL-BANK/assets/132764633/5512b9e6-56f4-4975-996f-01777580458b)
 
+  ## Project Directory Structure
+
+  MOGUL BANK/
+├── FILES/
+│   ├── bankmarketing.csv
+│   └── client.csv
+│   ├── ecconomics.csv
+│   ├── campaign.csv
+│   ├── project.pdf
+├── scripts/
+│   ├── Marketing.ipynb
+│   └── Bankdatabase.sql
+├── INSIGHT/
+│   └── client distribution.md
+│   ├── campaign.md
+│   ├── economics.md
+│   ├── Mogul_bank report.pdf
+└── README.md
+
+
 ## Dataset and Tools:
 Mogul Bank has provided a CSV file named "bank_marketing.csv," which contains raw data collected during the marketing campaign. This data includes information captured
 above

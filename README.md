@@ -18,26 +18,6 @@ Personal loans play a significant role in the banking sector, they serve as a su
 
   ![ERD](https://github.com/Kejimi-data/MOGUL-BANK/assets/132764633/5512b9e6-56f4-4975-996f-01777580458b)
 
-  ## Project Directory Structure
-
-  - MOGUL BANK/
-**FILES/**
-├── bankmarketing.csv
-└── client.csv
-├── ecconomics.csv
-├── campaign.csv
-├── project.pdf
-**scripts/**
-├── Marketing.ipynb
-└── Bankdatabase.sql
-**INSIGHT/**
-└── client distribution.md
-├── campaign.md
-├── economics.md
-├── Mogul_bank report.pdf
-**README.md**
-
-
 ## Dataset and Tools:
 Mogul Bank has provided a CSV file named "bank_marketing.csv," which contains raw data collected during the marketing campaign. This data includes information captured
 above
@@ -48,7 +28,21 @@ above
 - Python: A programming language used for scripting tasks, data analysis, and writing SQL code.
 - POSTGRESQL: Used for database management tasks, including creating database tables, querying data, and populating tables with data from CSV files.
 
+## Project Structure:
 
+Overview:
+The project is organized into three main directories: FILES, INSIGHTS, and SCRIPTS. 
 
+**FILES:**
 
+This directory contains all the data files used in the project, including datasets, raw data, or any other relevant files.
+Naming convention: Data files are named descriptively to indicate their content or purpose.
 
+**INSIGHTS:**
+
+The INSIGHTS directory houses all analysis reports, findings, and insights generated during the project.
+Each insight or analysis report is saved as a separate Markdown (.md) file for easy reference.
+
+**SCRIPTS:**
+
+The SCRIPTS directory contains jupyter notebook and SQL script

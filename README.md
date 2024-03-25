@@ -27,7 +27,7 @@ above
 - Jupyter Notebook: Provides an interactive environment for executing Python code and documenting the data cleaning and analysis process.
 - Python: A programming language used for scripting tasks, data analysis, and writing SQL code.
 - POSTGRESQL: Used for database management tasks, including creating database tables, querying data, and populating tables with data from CSV files.
-- Power Bi; Used for data visualisation
+- Power Bi: Used for data visualisation
 
 ## Project Structure:
 

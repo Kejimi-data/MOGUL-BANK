@@ -15,8 +15,8 @@ Personal loans play a significant role in the banking sector, they serve as a su
 - Client Table: Stores information about campaign participants, including biodata, credit status, existing personal loan and housing status.
 - Campaign Table: Contains details about the campaign, such as campaign ID, campaign_outcome, contact duration and so on.
 - Economics Table: Holds economic indicators, such as consumer price index, EURIBOR index amongst other.
-- 
-![ERD](https://github.com/Kejimi-data/MOGUL_BANK-/assets/132764633/cacd8025-16ac-418a-8afa-2b675f0ed541)
+
+  ![ERD](https://github.com/Kejimi-data/MOGUL-BANK/assets/132764633/5512b9e6-56f4-4975-996f-01777580458b)
 
 ## Dataset and Tools:
 Mogul Bank has provided a CSV file named "bank_marketing.csv," which contains raw data collected during the marketing campaign. This data includes information captured

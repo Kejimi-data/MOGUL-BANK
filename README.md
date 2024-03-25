@@ -18,7 +18,7 @@ Personal loans play a significant role in the banking sector, they serve as a su
 
   ![ERD](https://github.com/Kejimi-data/MOGUL-BANK/assets/132764633/5512b9e6-56f4-4975-996f-01777580458b)
 
-## Dataset and Tools:
+## Dataset :
 Mogul Bank has provided a CSV file named "bank_marketing.csv," which contains raw data collected during the marketing campaign. This data includes information captured
 above
 
@@ -27,6 +27,7 @@ above
 - Jupyter Notebook: Provides an interactive environment for executing Python code and documenting the data cleaning and analysis process.
 - Python: A programming language used for scripting tasks, data analysis, and writing SQL code.
 - POSTGRESQL: Used for database management tasks, including creating database tables, querying data, and populating tables with data from CSV files.
+- Power Bi; Used for data visualisation
 
 ## Project Structure:
 

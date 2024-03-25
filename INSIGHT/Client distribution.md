@@ -74,5 +74,5 @@ Understanding the marital status of clients can help tailor marketing strategies
 
 Understanding the education level of clients can help tailor financial products and services to meet the needs and preferences of different educational groups.
 
-![Mogul_bank_page-0001](https://github.com/Kejimi-data/MOGUL_BANK-/assets/132764633/26f6d6b8-55b4-40d5-94c6-d12eac7b7c65)
+![Mogul_bank_page-0001](https://github.com/Kejimi-data/MOGUL-BANK/assets/132764633/763d0a89-3799-4d88-9148-bc515e8b9785)
 

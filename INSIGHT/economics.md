@@ -23,4 +23,4 @@ Changes in the Euribor index can influence borrowing costs for individuals and b
 The convergence of positive employment rate trends, highest CPI, and Euribor index during May, June, and July suggests a dynamic economic environment with potential implications for consumer behavior, lending activities, and monetary policy.
 Understanding these economic indicators can help stakeholders make informed decisions regarding financial planning, investment strategies, and policy interventions.
 
-![Mogul_bank_page-0003](https://github.com/Kejimi-data/MOGUL-BANK/assets/132764633/4612a727-7fed-4efe-9b7e-9fda630b731f)
+![Mogul_bank report_page-0003](https://github.com/Kejimi-data/MOGUL-BANK/assets/132764633/d985daba-9bcc-4c3d-8f2f-82475ab3709e)

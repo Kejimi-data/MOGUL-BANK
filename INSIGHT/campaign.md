@@ -39,4 +39,4 @@ Similar trend observed in the previous campaign, with Married clients leading in
 Tailored strategies aimed at engaging singles and divorcees can further enhance campaign effectiveness.
 
 
-![Mogul_bank_page-0002](https://github.com/Kejimi-data/MOGUL-BANK/assets/132764633/6ff3b358-3d9a-4c32-867f-6ff3510241a7)
+![Mogul_bank report_page-0002](https://github.com/Kejimi-data/MOGUL-BANK/assets/132764633/066fa6a9-8b8c-47c0-a1a6-6b1d8cb7a557)
